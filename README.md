@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey there, you found me.
 
-<!--
-**Shennng/Shennng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://f3kpwu.coding-pages.com/)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:960064995@qq.com)
 
-Here are some ideas to get you started:
+星光灿烂，灯火辉煌
+而我想要黑暗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+一个中途上车的人。
+
+Java yyds。
+
+
+- 🔭 Research-wise, I'm mainly working on topics related to exploring the capability of machines to develop intelligent behavior upon what they have learned, like meta-learning and continual learning.
+- 🚀 I'm learning about Quantum Information.
+- 🧐 I'm also learning Java, Spring and Design Patterns.
+- 👾 I'm currently interested in strolling in Mihoyo Genshin.
+- 🌭 My dream: `while(sleeping){money++;}`
+
+My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Shennng&show_icons=true&hide_title=true&hide_border=true)](https://f3kpwu.coding-pages.com/)
+
