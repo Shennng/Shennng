@@ -17,6 +17,10 @@ Java yyds。
 - 👾 I'm currently interested in strolling in Mihoyo Genshin.
 - 🌭 My dream: `while(sleeping){money++;}`
 
-My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
+Shennng's GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shennng&repo=Fruit-Sales-Platform)](https://github.com/Shennng/Fruit-Sales-Platform)[![github stats](https://github-readme-stats.vercel.app/api?username=Shennng&show_icons=true&hide_title=true&hide_border=true)](https://f3kpwu.coding-pages.com/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shennng&layout=compact)
+![Shennng's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shennng&layout=compact)
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Shennng&repo=Fruit-Sales-Platform&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Shennng/Fruit-Sales-Platform)[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Shennng&repo=movie_mini_program&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Shennng/movie_mini_program)[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Shennng&repo=HGQT&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Shennng/HGQT)
+
+
