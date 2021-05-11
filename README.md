@@ -17,6 +17,8 @@ Java yyds!
 Shennng's GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
 <!--![Shennng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shennng&hide=contribs,issues)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shennng&layout=compact)......[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Shennng&repo=Fruit-Sales-Platform)](https://github.com/Shennng/Fruit-Sales-Platform)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shennng&layout=compact)
+
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Shennng&repo=Fruit-Sales-Platform)](https://github.com/Shennng/Fruit-Sales-Platform)
 
 
