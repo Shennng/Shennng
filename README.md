@@ -21,3 +21,4 @@ My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Shennng&show_icons=true&hide_title=true&hide_border=true)](https://f3kpwu.coding-pages.com/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://f3kpwu.coding-pages.com/)
