@@ -19,6 +19,8 @@ Java yyds。
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shennng&repo=Fruit-Sales-Platform)](https://github.com/Shennng/Fruit-Sales-Platform)
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=Shennng&show_icons=true&hide_title=true&hide_border=true)](https://f3kpwu.coding-pages.com/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&hide=GLSL,html,typescript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shennng&layout=compact)
